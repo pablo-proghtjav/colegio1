@@ -1,0 +1,147 @@
+body{
+	background: #373230;
+	font-family: 'Barlow', sans-serif;
+}
+.cabecera{
+	list-style: none;
+	padding: 0;
+	background: #C8533E;
+	width: 90%;
+	margin: auto;
+}
+.cabecera li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+.cabecera li{
+	display: inline-block;
+	text-align: center;
+}
+.cabecera li a:hover{
+	background: #000000;
+}
+h1{
+	text-align: center;
+	color: #ffffff;
+}
+img{
+	width: 600px;
+	margin-left: 30px;
+}
+.parafo{
+	padding-left: 30px;
+	padding-right: 20px;
+	color: white;
+}
+.cuerpo1{
+	background: #000000;
+	padding-top: 30px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+.cuerpo1 p{
+	padding-left: 30px;
+	padding-right: 20px;
+	color: #ffffff;
+}
+footer{
+	background: #000000;
+	color: #ffffff;
+	padding-top: 1px;
+	padding-left: 20px;
+	padding-bottom: 1px;
+	text-align: center;
+}
+/*inicio*/
+.inicio{
+	background: #000000;
+}
+.inicio h1{
+	margin-left: 20px;
+	text-align: left;
+}
+h2{
+	color: #ffffff;
+}
+p{
+	color: #ffffff;
+}
+/*informacion*/
+.inicio-informacion{
+	background: #000000;
+}
+.inicio-informacion h1{
+	margin-left: 20px;
+	text-align: left;
+}
+/*plan de estudios*/
+.plan-estudios{
+	background: #000000;
+}
+.plan-estudios h1{
+	margin-left: 20px;
+	text-align: left;
+}
+.tabla{
+	color: #ffffff;
+}
+.kinder{
+	background: #D86443;
+}
+.inicial{
+	background: #BFA343;
+}
+.primero-p{
+	background: #BF6E43;
+}
+.segundo-p{
+	background: #BFBB43;
+}
+.tercero-p{
+	background: #8CBF43;
+}
+.cuarto-p{
+	background: #58BF43;
+}
+.quinto-p{
+	background: #43BF79;
+}
+.sexto-p{
+	background: #43A8BF;
+}
+.primero-s{
+	background: #437FBF;
+}
+.segundo-s{
+	background: #435DBF;
+}
+.tercero-s{
+	background: #5F43BF;
+}
+.cuarto-s{
+	background: #9043BF;
+}
+.quinto-s{
+	background: #BF4394;
+}
+.sexto-s{
+	background: #BF4343;
+}
+/*materias y horarios*/
+.materias-horarios h1{
+	background: #000000;
+}
+.materias-horarios h1{
+	margin-left: 20px;
+	text-align: left;
+}
+/*actividades de la unidad*/
+.actividades {
+	background: #000000;
+}
+.actividades h1{
+	text-align: left;
+	margin-left: 20px;
+}
